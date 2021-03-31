@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Denis
 #### I am 27 y.o. engineer in automation.
-![I am 27 y.o. engineer in automation.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am 27 y.o. engineer in automation.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
